@@ -48,7 +48,3 @@ Ele depende de arquivos específicos do Android e dos que estão neste repositó
 </p>
 
 <hr>
-
-<p align="center">
-  Feito por <b><a href="https://github.com/StudioHash404">StudioHash404</a></b> 🚀
-</p>
