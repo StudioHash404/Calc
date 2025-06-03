@@ -46,5 +46,5 @@ O aplicativo será instalado e executado no dispositivo selecionado.
 Ele depende de arquivos específicos do Android e dos que estão neste repositório.<br>
 É obrigatório rodar no Android Studio.
 </p>
-
+<p>Video usado de referência: <a href="https://youtu.be/jTuxCv_XjlA?si=D5dneJq-CDCTA0Z3" target="_blank"><b>Vídeo</b></aVídeo ensinando a fazer a calculadora diretamente no Android Studio.<br>
 <hr>
